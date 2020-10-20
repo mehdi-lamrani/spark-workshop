@@ -11,5 +11,6 @@ wget https://github.com/mehdi-lamrani/spark-workshop/blob/main/notebooks/exercic
 
 Reload the list of Notebooks from Zeppelin
 
+<img src="/doc/img/zeppelin-reload-notes.png" width="400">
 
 The newly uploaded notebook is available

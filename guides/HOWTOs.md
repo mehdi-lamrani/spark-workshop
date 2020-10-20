@@ -1,1 +1,1 @@
-![Screenshot](/spark-workshop/doc/img/Zepplin App.png)
+![Screenshot](/doc/img/Zepplin%20App.png)

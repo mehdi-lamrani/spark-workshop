@@ -5,4 +5,6 @@ Sometimes it can be handy to visualize a zeppelin/python file (ipynb) when you d
 
 This online app is pretty cool to this purpose : https://app.zepl.com/explore
 
+Juste enter the github link to the file in the explore bar and click on the magnifier
+
 ![zeppelin](/doc/img/Zepplin%20App.png)

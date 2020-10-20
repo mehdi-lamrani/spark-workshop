@@ -8,4 +8,4 @@ This online app is pretty cool to this purpose : https://app.zepl.com/explore
 Juste enter the github link to the file in the explore bar and hit enter.
 This will show the notebook
 
-<img src="/doc/img/Zepplin%20App.png" width="600">
+<img src="/doc/img/zeppelin-app.png" width="600">

@@ -13,4 +13,4 @@ Reload the list of Notebooks from Zeppelin
 
 <img src="/doc/img/zeppelin-reload-notes.png" width="400">
 
-The newly uploaded notebook is available
+The newly uploaded notebook will be available
